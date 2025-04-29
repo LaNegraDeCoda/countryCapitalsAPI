@@ -38,31 +38,6 @@ HTML5
 
 CSS3
 
-# 🌍 Country Info Search App
-
-![Docker Pulls](https://img.shields.io/docker/pulls/dacodablakheart/country-info-app)
-![Docker Image Size](https://img.shields.io/docker/image-size/dacodablakheart/country-info-app/latest)
-![Docker Build Status](https://img.shields.io/docker/cloud/build/dacodablakheart/country-info-app)
-
-> A simple static web app to search for country details using the [RESTCountries API](https://restcountries.com) — containerized with Docker and served via `nginx:stable-alpine`.
-
----
-
-## 🚀 Features
-
-- 🔎 Search any country by name
-- 🏳️ View flag, capital, and region
-- ⚡ Fast and served with nginx
-- 🐳 Dockerized for easy distribution
-- 🛡️ Uses `nginx:stable-alpine` for minimal size & improved security
-
----
-
-## 📦 Run the App with Docker
-
-### 1. Pull the image:
-```bash
-docker pull dacodablakheart/country-info-app
 
 
 JavaScript (Fetch API)
